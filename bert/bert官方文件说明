@@ -1,0 +1,9 @@
+
+一．模块说明
+  bert模型基础：
+    modeling.py 定义模型
+    optimization.py 定义优化器
+    tokenization.py 定义token工具
+
+  下游任务：
+    run_classifier.py 做分类任务finetune
